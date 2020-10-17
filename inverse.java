@@ -1,5 +1,7 @@
 package Lec_4_Functions;
 
+//this is for reversing a number
+
 import java.util.Scanner;
 
 import static java.lang.Math.pow;

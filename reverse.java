@@ -1,5 +1,6 @@
 package Lec_4_Functions;
 
+// this program is for the reverse of a given number
 import java.util.Scanner;
 
 public class reverse {
